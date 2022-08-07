@@ -9,14 +9,15 @@ redirect_from:
 ---
 
 -----
-Hello, I'm a Ph.D. student of College of Computer Science and Technology in Nanjing University of Aeronautics and Astronautics. Surpervised by [Prof. Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/), I'm a member of [PARNEC(PAttern Recognition and NEural Computing)](http://parnec.nuaa.edu.cn/) Group.
+Hello, I'm a Ph.D. student of College of Computer Science and Technology in Nanjing University of Aeronautics and Astronautics. Surpervised by [Prof. Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/), I'm a member of [PARNEC(PAttern Recognition and NEural Computing)](http://parnec.nuaa.edu.cn/) group.
 
 Research Interests
 =====
 -----
 My research interests include: **Computer Vision** and **Machine Learning**. 
 
-Currently, I'm focused on **Interepretability** in Machine Learning, which makes machine learning models and their decisions more interpretable.
+Currently, I mainly focus on **Interpretability** in machine learning, whose goal is to achive a trade-off between precision and explanability of machine learning model in various tasks. In addition, I also follow research in **Reinforcement Learning**.
+
 
 Correspondence
 =====
