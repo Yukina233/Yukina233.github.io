@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 -----
-Hello, I'm a Ph.D.student of College of Computer Science and Technology in Nanjing University of Aeronautics and Astronautics. Surpervised by [Prof. Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/), I'm a member of [PARNEC](http://parnec.nuaa.edu.cn/ (PAttern Recognition and NEural Computing) group.
+Hello, I'm a Ph.D.student of College of Computer Science and Technology in Nanjing University of Aeronautics and Astronautics. Surpervised by [Prof. Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/), I'm a member of [PARNEC](http://parnec.nuaa.edu.cn/) (PAttern Recognition and NEural Computing) group.
 
 Research Interests
 =====
