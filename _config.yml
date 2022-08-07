@@ -90,7 +90,7 @@ author:
   googlescholar    : 
   email            : "yukina233@nuaa.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  "https://Yukina233.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -105,12 +105,12 @@ author:
   lastfm           :
   linkedin         :
   orcid            : 
-  pinterest        :
+  pinterest        :  
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :  "https://twitter.com/hpcljh" 
   vine             :
   weibo            :
   xing             :
@@ -311,4 +311,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
