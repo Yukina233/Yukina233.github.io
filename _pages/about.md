@@ -16,7 +16,9 @@ Research Interests
 -----
 My research interests include: **Computer Vision** and **Machine Learning**. 
 
-Currently, I mainly focus on **Interpretability** in machine learning, whose goal is to achive a trade-off between precision and explanability of machine learning model in various tasks. In addition, I also follow research in **Reinforcement Learning**.
+Currently, I mainly focus on **Interpretability** in machine learning, whose goal is to achive a trade-off between precision and explanability of machine learning model in various tasks. 
+
+In addition, I also follow research in **Reinforcement Learning**.
 
 
 Correspondence
